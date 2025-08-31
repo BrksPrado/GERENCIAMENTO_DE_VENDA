@@ -48,5 +48,5 @@ O sistema carrega dados automaticamente do arquivo `import.sql` e exibe:
 
 ## + Desenvolvedor
 
-**Gustavo P.** - Engenharia de Software  
+**Gustavo Prado** - Engenharia de Software  
 *Criado em: 30/08/2025*
